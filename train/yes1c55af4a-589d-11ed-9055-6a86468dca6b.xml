@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>yes1c55af4a-589d-11ed-9055-6a86468dca6b.jpg</filename>
+	<path>/Users/deepak/utd/projects/RealTimeObjectDetection/labelImg/images/yes1c55af4a-589d-11ed-9055-6a86468dca6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>178</ymin>
+			<xmax>975</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

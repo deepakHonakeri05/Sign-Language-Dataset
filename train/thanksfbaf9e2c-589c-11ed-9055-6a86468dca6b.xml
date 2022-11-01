@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>thanksfbaf9e2c-589c-11ed-9055-6a86468dca6b.jpg</filename>
+	<path>/Users/deepak/utd/projects/RealTimeObjectDetection/labelImg/images/thanksfbaf9e2c-589c-11ed-9055-6a86468dca6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>336</ymin>
+			<xmax>1145</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>

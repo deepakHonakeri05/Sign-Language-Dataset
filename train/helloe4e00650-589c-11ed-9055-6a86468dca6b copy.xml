@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>helloe4e00650-589c-11ed-9055-6a86468dca6b copy.jpg</filename>
+	<path>/Users/deepak/utd/projects/RealTimeObjectDetection/labelImg/images/helloe4e00650-589c-11ed-9055-6a86468dca6b copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>8</ymin>
+			<xmax>355</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

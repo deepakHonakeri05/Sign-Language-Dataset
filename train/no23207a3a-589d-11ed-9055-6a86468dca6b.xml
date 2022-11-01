@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>no23207a3a-589d-11ed-9055-6a86468dca6b.jpg</filename>
+	<path>/Users/deepak/utd/projects/RealTimeObjectDetection/labelImg/images/no23207a3a-589d-11ed-9055-6a86468dca6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>361</ymin>
+			<xmax>383</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+</annotation>
